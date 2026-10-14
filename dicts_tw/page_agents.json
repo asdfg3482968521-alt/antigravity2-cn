@@ -40,5 +40,14 @@
     "No skills or rules match this filter.": "沒有符合目前篩選條件的技能或規則。",
     "No skills or rules yet.": "尚無技能或規則。",
     "Pre-installed": "預先安裝",
-    "Builtin": "內建"
+    "Builtin": "內建",
+    "Browse Plugins": "瀏覽外掛程式",
+    "Install Plugins": "安裝外掛程式",
+    "Manage Plugins": "管理外掛程式",
+    "Plugin Marketplace": "外掛程式市集",
+    "Installed Plugins": "已安裝的外掛程式",
+    "Agent Hooks": "代理掛鉤",
+    "Live Subagent": "即時子代理",
+    "Subagent is running": "子代理正在執行",
+    "Subagent is waiting": "子代理正在等待"
 }
