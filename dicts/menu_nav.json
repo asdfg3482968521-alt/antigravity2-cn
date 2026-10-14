@@ -107,5 +107,14 @@
     "Move to group": "移动到分组",
     "New Group": "新建分组",
     "Create Group": "创建分组",
-    "Share": "分享"
+    "Share": "分享",
+    "Automations": "自动化任务",
+    "Advanced Search": "高级搜索",
+    "UI Extensions": "界面扩展",
+    "Display Options": "显示选项",
+    "Show in File Explorer": "在文件资源管理器中显示",
+    "Reveal in Finder": "在访达中显示",
+    "Toggle Between Light/Dark Themes": "切换浅色/深色主题",
+    "Archived Conversations": "已归档的对话",
+    "Search Conversation History": "搜索对话历史"
 }

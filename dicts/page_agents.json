@@ -40,5 +40,14 @@
     "No skills or rules match this filter.": "没有符合当前筛选条件的技能或规则。",
     "No skills or rules yet.": "还没有技能或规则。",
     "Pre-installed": "预装",
-    "Builtin": "内置"
+    "Builtin": "内置",
+    "Browse Plugins": "浏览插件",
+    "Install Plugins": "安装插件",
+    "Manage Plugins": "管理插件",
+    "Plugin Marketplace": "插件市场",
+    "Installed Plugins": "已安装的插件",
+    "Agent Hooks": "智能体钩子",
+    "Live Subagent": "实时子智能体",
+    "Subagent is running": "子智能体正在运行",
+    "Subagent is waiting": "子智能体正在等待"
 }

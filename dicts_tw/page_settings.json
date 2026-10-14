@@ -547,5 +547,21 @@
     "Grant administrator access for": "授予管理員許可權：",
     "Grant one-time administrator access": "授予一次性管理員許可權",
     "Requesting a one-time administrator (UAC) elevation": "正在請求一次性管理員 (UAC) 提權",
-    "Yes, allow": "允許"
+    "Yes, allow": "允許",
+    "Use Global Settings": "使用全域設定",
+    "Permissions Preset": "權限預設",
+    "Permission Preset": "權限預設",
+    "Choose a permissions preset": "選擇權限預設",
+    "Choose Permissions": "選擇權限",
+    "Plan Review Policy": "計畫審閱原則",
+    "Review Every Plan": "審閱每個計畫",
+    "Review When Needed": "視需要審閱",
+    "Skip Plan Review": "略過計畫審閱",
+    "Always Review Plans": "一律審閱計畫",
+    "Windows Subsystem for Linux": "適用於 Linux 的 Windows 子系統",
+    "WSL Distribution": "WSL 發行版",
+    "File and Network Sandboxing": "檔案與網路沙箱",
+    "Theme Preset": "佈景主題預設",
+    "Permissions Picker": "權限選擇器",
+    "Global Preset": "全域預設"
 }

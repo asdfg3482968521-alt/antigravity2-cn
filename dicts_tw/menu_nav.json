@@ -107,5 +107,14 @@
     "Move to group": "移動到分組",
     "New Group": "新建分組",
     "Create Group": "建立分組",
-    "Share": "分享"
+    "Share": "分享",
+    "Automations": "自動化任務",
+    "Advanced Search": "進階搜尋",
+    "UI Extensions": "介面擴充功能",
+    "Display Options": "顯示選項",
+    "Show in File Explorer": "在檔案總管中顯示",
+    "Reveal in Finder": "在 Finder 中顯示",
+    "Toggle Between Light/Dark Themes": "切換淺色／深色主題",
+    "Archived Conversations": "已封存的對話",
+    "Search Conversation History": "搜尋對話歷史"
 }
